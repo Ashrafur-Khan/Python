@@ -1,5 +1,3 @@
-# HW2
-# REMINDER: The work in this assignment must be your own original work and must be completed alone.
 
 import random
 
