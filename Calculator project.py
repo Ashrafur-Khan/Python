@@ -1,5 +1,3 @@
-# HW3
-# REMINDER: The work in this assignment must be your own original work and must be completed alone.
 
 from cmath import e
 from xml.etree.ElementTree import tostring
