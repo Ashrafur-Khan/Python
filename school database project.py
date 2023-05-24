@@ -1,9 +1,7 @@
 
 import random
 
-'''
-python3 -i HW2 copy.py
-'''
+
 
 class Course:
     '''
